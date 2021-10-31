@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelpForDaggerHilt</string>
+    <string name="value3">"This is value 3"</string>
+</resources>
